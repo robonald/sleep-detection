@@ -86,12 +86,8 @@ If you'd like to contribute to the Sleep Detection Project, please follow the st
 
 5. Create a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE.md).
 
-## Contact
 
-For any inquiries or suggestions, please reach out to [your-email@example.com](mailto:your-email@example.com).
 
 Sweet dreams with the Sleep Detection Project!
